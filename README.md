@@ -1,1 +1,1 @@
-# Apply_Naive_Bayes_on_Donors_Choose_dataset
+# Apply_Naive_Bayes_algorithm_on_Donors_Choose_dataset
